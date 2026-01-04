@@ -1,6 +1,10 @@
 
 # Ranked Choice Voting Support Analysis
 
+
+## Project Format
+This project is presented as a static HTML report exported from a Python-based analysis notebook to emphasize clarity and accessibility.
+
 ## Project Overview
 This project analyzes survey data to understand public support for Ranked Choice Voting (RCV) in the United States. Although RCV offers several benefits such as identifying candidates with the strongest overall support and reducing wasted votes, not all voters support its adoption.
 
