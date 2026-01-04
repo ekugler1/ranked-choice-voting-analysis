@@ -1,4 +1,3 @@
-# ranked-choice-voting-analysis
 
 # Ranked Choice Voting Support Analysis
 
