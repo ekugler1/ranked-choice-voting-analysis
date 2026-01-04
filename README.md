@@ -2,9 +2,9 @@
 # Ranked Choice Voting Support Analysis
 
 ## Project Overview
-This project analyzes survey data to understand public support for Ranked Choice Voting (RCV) in the United States. Although RCV offers several benefits—such as identifying candidates with the strongest overall support and reducing wasted votes—not all voters support its adoption.
+This project analyzes survey data to understand public support for Ranked Choice Voting (RCV) in the United States. Although RCV offers several benefits such as identifying candidates with the strongest overall support and reducing wasted votes, not all voters support its adoption.
 
-The purpose of this analysis is to help a civic engagement organization allocate educational and outreach resources more effectively. Rather than expending effort on populations that already support RCV or are unlikely to change their views, this project focuses on identifying demographic patterns associated with lower levels of support.
+The purpose of this analysis is to help allocate educational and outreach resources more effectively. Rather than expending effort on populations that already support RCV or are unlikely to change their views, this project focuses on identifying demographic patterns associated with lower levels of support.
 
 ## Research Question
 How do race and gender influence an individual’s likelihood of supporting Ranked Choice Voting?
